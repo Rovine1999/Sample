@@ -3,7 +3,7 @@ y[0].innerHTML = 'abc'
 
 let arr = ['Nairobi', 'Kisumu', 'Kisumu'];
 
-for ( let index = 0; < arr.length; index++) {
+for ( let index = 0; index < arr.length; index++) {
     const element = arr[index];
     console.log('elemet' + element);
 
